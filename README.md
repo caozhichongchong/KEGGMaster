@@ -1,4 +1,6 @@
 # KEGGMaster
+#Copyright: LG209, Environmental Biotechnology Lab, The University of Hong Kong
+#Author: An Ni ZHANG, email: caozhichongchong@gmail.com
 #KEGGMaster consists of three python scripts to assign KO numbers to sequences and visualize metabolism and non-mtabolism pathways.
 #The combination of three python scripts will convert blast result into highlighted kgml files
 #The combination of Kegg_Ano.py and Kegg_Parse.py will convert KOlist into highlighted kgml files
